@@ -1,0 +1,6 @@
+framework module Pods_HobbyTests {
+  umbrella header "Pods-HobbyTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
