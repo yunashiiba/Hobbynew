@@ -1,0 +1,21 @@
+PODS:
+  - Gecco (2.0.0)
+
+DEPENDENCIES:
+  - Gecco (from `https://github.com/yukiasai/Gecco.git`)
+
+EXTERNAL SOURCES:
+  Gecco:
+    :git: https://github.com/yukiasai/Gecco.git
+
+CHECKOUT OPTIONS:
+  Gecco:
+    :commit: 316c2c3896bda251abb7c7a4dd630f5fd087a4df
+    :git: https://github.com/yukiasai/Gecco.git
+
+SPEC CHECKSUMS:
+  Gecco: 6d4225d0b58f6cf952d198a831904d50e646ec3f
+
+PODFILE CHECKSUM: 4da76b60c11995cba49b49ee6a91c1b782e936a6
+
+COCOAPODS: 1.12.1
